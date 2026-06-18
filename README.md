@@ -44,10 +44,12 @@ python thalamus_net.py
 If you use this code or build upon the architecture in your research, please cite the paper:
 
 ```bibtex
-@article{sutar2026Multiplicative-SG,
+@article{sutar2026Mutiplicative-SG,
   title={Beyond Additive Attention: Multiplicative Structural Gating for Sequence Memory},
   author={Sutar, Hasmukh Madanlal},
-  year={2026}
+  journal={Zenodo Preprint},
+  year={2026},
+  doi={10.5281/zenodo.20753815}
 }
 ```
 
