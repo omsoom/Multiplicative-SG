@@ -1,0 +1,23 @@
+
+cff-version: 1.2.0
+message: "If you use this code or architecture, please cite it as below."
+title: "Beyond Additive Attention: Multiplicative Structural Gating for Sequence Memory"
+authors:
+  - family-names: Sutar
+    given-names: Hasmukh Madanlal    
+keywords:
+  - neural networks
+  - sequence modeling
+  - memory networks
+  - graph neural networks
+license: MIT
+version: 1.0.0
+date-released: 2026-06-19 
+preferred-citation:
+  type: article
+  title: "Beyond Additive Attention: Multiplicative Structural Gating for Sequence Memory"
+  authors:
+    - family-names: Sutar
+      given-names: Hasmukh Madanlal
+  year: 2026
+  notes: "Preprint available on Zenodo"
