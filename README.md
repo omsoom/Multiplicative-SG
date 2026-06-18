@@ -1,5 +1,4 @@
 
-```markdown
 # Beyond Additive Attention: Multiplicative Structural Gating for Sequence Memory
 
 Official code repository for the paper **"Beyond Additive Attention: Multiplicative Structural Gating for Sequence Memory"**. 
